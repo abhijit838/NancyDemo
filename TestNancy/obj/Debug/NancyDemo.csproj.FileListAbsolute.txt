@@ -1,9 +1,0 @@
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\TestNancy.exe.config
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\TestNancy.exe
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\TestNancy.pdb
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\Nancy.dll
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\Nancy.Hosting.Self.dll
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\Nancy.xml
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\bin\Debug\Nancy.Hosting.Self.xml
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\obj\Debug\TestNancy.exe
-c:\users\plank-abhijit\documents\visual studio 2017\Projects\TestNancy\TestNancy\obj\Debug\TestNancy.pdb
